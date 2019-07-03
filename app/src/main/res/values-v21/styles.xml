@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Green</item>
+        <item name="colorPrimaryDark">@color/Pink</item>
+        <item name="colorAccent">@color/dYellow</item>
+    </style>
+
+    <style name="Font1" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/dBlue</item>
+    </style>
+
+    <style name="Font2" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/dRed</item>
+    </style>
+
+    <style name="Font3" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/Pink</item>
+    </style>
+</resources>
